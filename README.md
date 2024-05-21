@@ -17,3 +17,7 @@ If the clear button is pressed, it resets all color deques and indices.
 It draws lines on the canvas and frame based on the points stored in the color deques.
 
 It exits the program when the user presses 'q', releasing the webcam and destroyin.<hr>
+
+![](https://github.com/ahmadmirdamadi/Virtual-Painter-/assets/113544813/19861f5f-9472-4906-8852-65a78fd56458)<hr>
+
+Source:https://youtu.be/_aOS1ozt6ec?si=_bbhbBmMzHyECcAP
